@@ -65,7 +65,7 @@ Backend is in **Motoko**; frontend uses **React**.
 3. Deploy canisters
    ```bash
 
-    dfx deploy
+ dfx deploy
     ```
 4. Start frontend
    ```bash
