@@ -1,4 +1,4 @@
-# 🧠 MemoWallet using Motoko
+# 🧠 MemoWallet
 ## 🪙 Decentralised Notes Keeper on the Internet Computer (ICP)
 
 MemoWallet is a blockchain-based notes application built on the **Internet Computer (ICP)**.  
