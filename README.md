@@ -43,9 +43,9 @@ Backend is in **Motoko**; frontend uses **React**.
 |---|---|
 | ![MW1](./imgg/mw1.png) | ![MW2](./imgg/mw2.png) |
 
-| Notes View | – |
-|---|---|
-| ![MW3](./imgg/mw3.png) |  |
+| Notes View | 
+|---|
+| ![MW3](./imgg/mw3.png) |  
 
 
 ---
